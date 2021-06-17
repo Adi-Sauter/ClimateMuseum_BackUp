@@ -119,3 +119,131 @@ System memory in use after: 170.3 MB.
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1940.
 Total: 3.169716 ms (FindLiveObjects: 0.481089 ms CreateObjectMapping: 0.135911 ms MarkObjects: 2.470074 ms  DeleteObjects: 0.080880 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1119.109334 seconds.
+  path: Assets/Prefabs/SliderTable.prefab
+  artifactKey: Guid(eb28cb493d8694bad8c719fb9a7fb736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SliderTable.prefab using Guid(eb28cb493d8694bad8c719fb9a7fb736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd259b341ca649814c37c564f4e5a37fe') in 0.223126 seconds
+  Import took 0.231839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 191.851739 seconds.
+  path: Assets/Game GUI Vol1/WoodenBlocks
+  artifactKey: Guid(38aacccc0e11d4fa2b43990edd2a583f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game GUI Vol1/WoodenBlocks using Guid(38aacccc0e11d4fa2b43990edd2a583f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec1d7f8691d7a5d9f093e75a58709c2') in 0.003478 seconds
+  Import took 0.027145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.027532 seconds.
+  path: Assets/Game GUI Vol1/WoodenBlocks/Sprites
+  artifactKey: Guid(a1f687b05772f48138b07d6436b4442d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game GUI Vol1/WoodenBlocks/Sprites using Guid(a1f687b05772f48138b07d6436b4442d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b71f346fd7ab5511b27efe82ac72b8') in 0.001290 seconds
+  Import took 0.007741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.299378 seconds.
+  path: Assets/Game GUI Vol1/WoodenBlocks/Sprites/WoodenBG-resized.png
+  artifactKey: Guid(278249b5f3eca4d38be55ca9a2a87e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game GUI Vol1/WoodenBlocks/Sprites/WoodenBG-resized.png using Guid(278249b5f3eca4d38be55ca9a2a87e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935abc73e266d21d754bb50554b30fac') in 1.095240 seconds
+  Import took 1.099257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.894789 seconds.
+  path: Assets/Game GUI Vol1/WoodenBlocks/PNG/Info.png
+  artifactKey: Guid(e2f97d3975aca4a5f975ded803cdc06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game GUI Vol1/WoodenBlocks/PNG/Info.png using Guid(e2f97d3975aca4a5f975ded803cdc06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e59d6871f40816c54d55d4540822dc') in 0.019381 seconds
+  Import took 0.025440 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010018 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.364 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1434 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.8 MB.
+System memory in use after: 174.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1948.
+Total: 1.913548 ms (FindLiveObjects: 0.204994 ms CreateObjectMapping: 0.052054 ms MarkObjects: 1.614327 ms  DeleteObjects: 0.041022 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.758807 seconds.
+  path: Assets/Prefabs/SliderTable Variant.prefab
+  artifactKey: Guid(48ddeb1f353ba49fcae2b50080e18b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SliderTable Variant.prefab using Guid(48ddeb1f353ba49fcae2b50080e18b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe48835bb8f122fdace2b13c7b42452') in 0.246681 seconds
+  Import took 0.251137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.640557 seconds.
+  path: Assets/Prefabs/SliderTable 1.prefab
+  artifactKey: Guid(85c9dbf3a56f74dddbb18183727c91d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SliderTable 1.prefab using Guid(85c9dbf3a56f74dddbb18183727c91d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbaccf6bae8ef0bfb84ee70b4988c03e') in 0.063965 seconds
+  Import took 0.069746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.998870 seconds.
+  path: Assets/Prefabs/SliderTable (1).prefab
+  artifactKey: Guid(8cfb873b0fc634782b55fd193379ae1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SliderTable (1).prefab using Guid(8cfb873b0fc634782b55fd193379ae1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3375ead816547ab6343d5468d06f9927') in 0.063828 seconds
+  Import took 0.069009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.775647 seconds.
+  path: Assets/Prefabs/SliderTableWithButtons.prefab
+  artifactKey: Guid(8cfb873b0fc634782b55fd193379ae1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SliderTableWithButtons.prefab using Guid(8cfb873b0fc634782b55fd193379ae1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb8f5644e83244504b9d4fb7ecc1a33e') in 0.055500 seconds
+  Import took 0.061742 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007061 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1434 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.2 MB.
+System memory in use after: 175.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1952.
+Total: 2.231790 ms (FindLiveObjects: 0.260288 ms CreateObjectMapping: 0.081614 ms MarkObjects: 1.850122 ms  DeleteObjects: 0.037183 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 361.411997 seconds.
+  path: Assets/Prefabs/SliderTableWithButtons.prefab
+  artifactKey: Guid(8cfb873b0fc634782b55fd193379ae1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SliderTableWithButtons.prefab using Guid(8cfb873b0fc634782b55fd193379ae1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71c11525da856f8bc47773f12dcdca3') in 0.169396 seconds
+  Import took 0.174477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.184963 seconds.
+  path: Assets/Prefabs/SliderTable.prefab
+  artifactKey: Guid(eb28cb493d8694bad8c719fb9a7fb736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SliderTable.prefab using Guid(eb28cb493d8694bad8c719fb9a7fb736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40a3196601aec8339c42e239606fbe8') in 0.043488 seconds
+  Import took 0.047386 seconds .
+
